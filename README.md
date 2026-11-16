@@ -69,29 +69,32 @@
 
 ---
 
-<h3>🌐 &nbsp;Websites I've Designed & Developed</h3>
-
-<h4>Designed with Figma and developed with Wix</h4>
+<h3>Websites I've Designed & Developed</h3>
 
 <ul>
   <li>
     Eternal Granite<br>
-    <a href="https://www.eternalgranitecountertops.com/">🌐 Live Website</a>
+    Designed with Figma • Developed with Wix<br>
+    <a href="https://www.eternalgranitecountertops.com/">Live Website</a>
   </li>
-    <li>
+  <br>
+
+  <li>
     M&M Steel Works<br>
-    <a href="https://www.mmsteelworks.com/">🌐 Live Website</a>
+    Designed with Figma • Developed with Wix<br>
+    <a href="https://www.mmsteelworks.com/">Live Website</a>
   </li>
-</ul>
+  <br>
 
-<h4>Desgined with Figma and developed with Framer</h4>
-
-<ul>
   <li>
     Driven II Develop<br>
-    <a href="https://driveniidevelop.framer.website/">🌐 Live Website</a>
+    Designed with Figma • Developed with Framer<br>
+    <a href="https://driveniidevelop.framer.website/">Live Website</a>
   </li>
 </ul>
+
+---
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
