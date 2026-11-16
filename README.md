@@ -38,14 +38,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="100" height="100"/>&nbsp;
 </div>
-
----
-
-### 💯  My Stats : 
-
-<div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-pedrazaaa&layout=compact&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" width="300" align="right"/></a>
-<a href="http://github-readme-streak-stats.herokuapp.com?user=alejandro-pedrazaaa&theme=jolly"><img src="http://github-readme-streak-stats.herokuapp.com?user=alejandro-pedrazaaa&theme=jolly" width="510" /></a>
-</div>
-
----
