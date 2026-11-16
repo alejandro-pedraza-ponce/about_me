@@ -19,8 +19,6 @@
 ---
 ### 🎓 Education
 
-<img src="https://uasys.edu/wp-content/uploads/sites/16/2023/01/4_C-horizonal-logo-768x593.png" width="45" align="left">
-
 **B.S. in Computer Science**  
 University of Arkansas Grantham  
 *In Progress*
