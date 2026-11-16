@@ -15,7 +15,7 @@
   <br>
   <li>🎥 Fun Fact: I love documentaries and learning new things.</li>
   <br>
-  <li>🎶 This is the kind of <a href="https://open.spotify.com/playlist/7mHplBn1Z5KpCfK1i7V2vH">music I like</a>.</li>
+  <li>🎶 This is the kind of <a href="https://open.spotify.com/playlist/0JdyXwKC3tQYyc9TTc1CRX?si=1Tx08-7WRY-IKFe1xJDMVQ&utm_source=copy-link&pi=pFwm0ahNSoyLq">music I like</a>.</li>
 </ul>
 
 ---
