@@ -6,8 +6,6 @@
 
 <h3 align="center">Inventory Specialist | UX Background | Transitioning into IT</h3>
 
-### :man_technologist: &nbsp;About Me :
-
 ### 👨‍💻 &nbsp;About Me :
 
 - 📦 I currently work as an **Inventory Specialist**, where I use technology, SAP EWM, Excel, and process improvement to solve operational problems.
