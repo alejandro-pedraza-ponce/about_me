@@ -43,6 +43,18 @@
 
 ---
 
+<h3>🧪 &nbsp;Labs</h3>
+
+<ul>
+  <li>
+    Active Directory Home Lab | <em>In Progress</em><br>
+    Windows Server 2022 • Windows 11 • Active Directory • DNS • DHCP • PowerShell • VMware<br>
+    <a href="https://medium.com/@lumenyx/active-directory-lab-for-beginners-5c324fbfe8e1">Lab Guide</a>
+  </li>
+</ul>
+
+---
+
 <h3>🏆 &nbsp;Certifications</h3>
 
 <ul>
