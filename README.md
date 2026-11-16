@@ -8,13 +8,13 @@
 
 <h3>👨‍💻 &nbsp;About Me :</h3>
 
-- 📦 **Inventory Specialist** with a background in **User Experience Design**, now transitioning into **IT**.
+<p>📦 <strong>Inventory Specialist</strong> with a background in <strong>User Experience Design</strong>, now transitioning into <strong>IT</strong>.</p>
 
-- 🧠 I enjoy solving problems, improving processes, and understanding how technology works behind the scenes.
+<p>🧠 I enjoy solving problems, improving processes, and understanding how technology works behind the scenes.</p>
 
-- 🎥 Fun fact: I love documentaries and learning new things.
+<p>🎥 <strong>Fun Fact:</strong> I love documentaries and learning new things.</p>
 
-- 🎶 This is the kind of [music I like](https://open.spotify.com/playlist/7mHplBn1Z5KpCfK1i7V2vH)
+<p>🎶 This is the kind of <a href="https://open.spotify.com/playlist/7mHplBn1Z5KpCfK1i7V2vH">music I like</a>.</p>
 
 ---
 
