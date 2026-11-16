@@ -1,5 +1,12 @@
 <p align="center"><img src="https://media.giphy.com/media/xaU9pn4NS2g9Btvmtl/giphy.gif" width="500" height="270"  /></p>
 
+
+<img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/eedb1e82-4976-41ba-9d04-b38392c59e94" />
+
+
+
+
+
 <h1 align="center"> :wave: Hey there, I'm Alejandro! :wave: </h1>
 
 <h3 align="center">💻 Front-end Software Developer 💻</h3>
