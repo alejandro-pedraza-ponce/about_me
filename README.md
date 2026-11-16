@@ -37,8 +37,8 @@
 <h3>🎯 &nbsp;Currently Studying</h3>
 
 <ul>
-  <li><strong>Google IT Support Professional Certificate</strong> — Google | <em>In Progress</em></li>
-  <li><strong>Networking Basics</strong> — Cisco Networking Academy | <em>In Progress</em></li>
+  <li>Google IT Support Professional Certificate — Google | <em>In Progress</em></li>
+  <li>Networking Basics — Cisco Networking Academy | <em>In Progress</em></li>
 </ul>
 
 ---
