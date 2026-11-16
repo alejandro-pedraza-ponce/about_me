@@ -71,13 +71,12 @@
 
 <h3>🌐 &nbsp;Websites I've Designed & Developed</h3>
 
+<h4>I designed and developed this using Wix</h4>
+
 <ul>
   <li>
-    Project Name<br>
-    Short description of the website and what I built.<br>
-    Technologies: HTML • CSS • JavaScript • React<br>
-    <a href="YOUR-LIVE-WEBSITE-LINK">🌐 Live Website</a> |
-    <a href="YOUR-GITHUB-REPOSITORY-LINK">💻 Source Code</a>
+    Eternal Granite<br>
+    <a href="https://www.eternalgranitecountertops.com/">🌐 Live Website</a>
   </li>
 </ul>
 
