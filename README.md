@@ -9,7 +9,7 @@
 <h3>👨‍💻 &nbsp;About Me :</h3>
 
 <ul>
-  <li>📦 Inventory Specialist with a background in User Experience Design, now transitioning into <strong>IT</strong>.</li>
+  <li>📦 Inventory Specialist with a background in User Experience Design, now transitioning into IT.</li>
   <br>
   <li>🧠 I enjoy solving problems, improving processes, and understanding how technology works behind the scenes.</li>
   <br>
