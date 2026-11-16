@@ -36,9 +36,9 @@
 <h3>🎯 Certifications & Courses in Progress</h3>
 
 <ul>
+  <li><strong>Google IT Support Professional Certificate</strong> — Google | <em>In Progress</em></li>
+  <li><strong>Networking Basics</strong> — Cisco Networking Academy | <em>In Progress</em></li>
   <li><strong>Career Essentials in System Administration</strong> — Microsoft & LinkedIn</li>
-  <li><strong>The Bits and Bytes of Computer Networking</strong> — Google</li>
-  <li><strong>Technical Support Fundamentals</strong> — Google</li>
   <li><strong>Windows 11 for IT Support: Troubleshooting Basics</strong> — LinkedIn</li>
   <li><strong>IT Help Desk for Beginners</strong> — LinkedIn</li>
   <li><strong>Google UX Design Professional Certificate</strong> — Google</li>
