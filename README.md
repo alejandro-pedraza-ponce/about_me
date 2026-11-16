@@ -117,7 +117,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="60" height="60">&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" title="VMware" alt="VMware" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60">
 </div>
 
