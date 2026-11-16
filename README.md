@@ -145,5 +145,5 @@ I'm always happy to connect with people in IT, technology, and anyone who enjoys
 
 <ul>
   <li><a href="https://www.linkedin.com/in/alejandro-pedraza-ponce/">Connect with me on LinkedIn</a></li>
-  <li><a href="mailto:YOUR-EMAIL-HERE">Send me an email</a></li>
+  <li>My email is: alepedpon1@gmail.com</li>
 </ul>
