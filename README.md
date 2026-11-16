@@ -55,30 +55,19 @@
   <li><strong>Responsive Web Design</strong> — freeCodeCamp</li>
 </ul>
 
-
-
-
-
-
-### 🧪 IT Labs & Projects
-
-I'm building hands-on labs to apply what I'm learning.
-
-- 🖥️ **Windows Server Lab** — Coming Soon
-- 🔐 **Active Directory Lab** — Coming Soon
-- 🌐 **Networking Lab** — Coming Soon
-- ☁️ **Microsoft Azure Lab** — Coming Soon
-
 ---
 
-### 🌐 Websites I've Designed & Developed
+<h3>🌐 &nbsp;Websites I've Designed & Developed</h3>
 
-#### Project Name
-Short description of the website and what you built.
-
-**Technologies:** HTML • CSS • JavaScript • React
-
-[🌐 Live Website](YOUR-LIVE-WEBSITE-LINK) | [💻 Source Code](YOUR-GITHUB-REPOSITORY-LINK)
+<ul>
+  <li>
+    Project Name<br>
+    Short description of the website and what I built.<br>
+    Technologies: HTML • CSS • JavaScript • React<br>
+    <a href="YOUR-LIVE-WEBSITE-LINK">🌐 Live Website</a> |
+    <a href="YOUR-GITHUB-REPOSITORY-LINK">💻 Source Code</a>
+  </li>
+</ul>
 
 ---
 
