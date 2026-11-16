@@ -140,10 +140,5 @@
 <h3>📫 &nbsp;Let's Connect</h3>
 
 <p>
-I'm always happy to connect with people in IT, technology, and anyone who enjoys learning and building things.
+I'm always happy to connect with people in IT, technology, and anyone who enjoys learning and building things. Connect with me on <a href="https://www.linkedin.com/in/alejandro-pedraza-ponce/">LinkedIn</a> or reach me at <a href="mailto:alepedpon1@gmail.com">alepedpon1@gmail.com</a>.
 </p>
-
-<ul>
-  <li><a href="https://www.linkedin.com/in/alejandro-pedraza-ponce/">Connect with me on LinkedIn</a></li>
-  <li>My email is: alepedpon1@gmail.com</li>
-</ul>
