@@ -31,6 +31,8 @@
 
 <br clear="left">
 
+<h3>🎯 Certifications & Courses in Progress</h3>
+
 ---
 
 ### 📚 What I'm Currently Studying
