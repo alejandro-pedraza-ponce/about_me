@@ -17,12 +17,13 @@
 - 🎶 This is the kind of [music I like](https://open.spotify.com/playlist/7mHplBn1Z5KpCfK1i7V2vH)
 
 ---
-
 ### 🎓 Education
 
-**Bachelor of Science in Computer Science**  
-*University of Arkansas Grantham*  
+<img src="https://uasys.edu/wp-content/uploads/sites/16/2023/01/4_C-horizonal-logo-768x593.png" width="45" align="left">
 
+**B.S. in Computer Science**  
+University of Arkansas Grantham  
+*In Progress*
 ---
 
 ### 📚 What I'm Currently Studying
