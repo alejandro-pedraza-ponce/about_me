@@ -13,7 +13,7 @@
   <br>
   <li>📝 I spend my time outside of work studying, practicing, and getting hands-on with networking, systems, and Microsoft technologies.</li>
   <br>
-  <li>🗺️ I’m always looking for the next thing to learn, build, troubleshoot, or improve.</li>
+  <li>🗺️ I learn best by building things, breaking things, and figuring out how to fix them or improve them.</li>  
   <br>
   <li>🕺 Fun Fact: I dance Salsa</li>
   <br>
