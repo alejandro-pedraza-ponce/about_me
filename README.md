@@ -6,7 +6,7 @@
 
 <h3 align="center">Inventory Specialist | UX Design Background | Transitioning into IT</h3>
 
-### 👨‍💻 &nbsp;About Me :
+<h3>👨‍💻 &nbsp;About Me :</h3>
 
 - 📦 **Inventory Specialist** with a background in **User Experience Design**, now transitioning into **IT**.
 
