@@ -142,8 +142,9 @@
 <h4>Enterprise & Productivity</h4>
 
 <div align="center">
+  <img src="https://img.icons8.com/color/1200/office-365.jpg" title="Microsoft 365" alt="Microsoft 365" width="60" height="60">&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" title="Microsoft Excel" alt="Microsoft Excel" width="60" height="60">&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/96/microsoft-365.png" title="Microsoft 365" alt="Microsoft 365" width="60" height="60">&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-Xo6QRq6JjoFXRlWyotLzm-BkxQFxcmlxC8x-ckhQA&s=10" title="Copilot" alt="Copilot" width="60" height="60">
   <img src="https://cdn.simpleicons.org/sap/0FAAFF" title="SAP EWM" alt="SAP EWM" width="60" height="60">
 </div>
 
