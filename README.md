@@ -95,6 +95,33 @@
 
 ---
 
+<h3>💻 Web Development Projects</h3>
+
+<ul>
+  <li>
+    Movies App<br>
+    Coded and deployed with GitHub Pages<br>
+    <a href="https://alejandro-pedraza-ponce.github.io/MoviesApp/">Live Website</a> |
+    <a href="https://github.com/alejandro-pedraza-ponce/MoviesApp">Source Code</a>
+  </li>
+  <br>
+
+  <li>
+    User Creation Form<br>
+    Coded and deployed with GitHub Pages<br>
+    <a href="https://alejandro-pedraza-ponce.github.io/User-Creation-Form/">Live Website</a> |
+    <a href="https://github.com/alejandro-pedraza-ponce/User-Creation-Form">Source Code</a>
+  </li>
+  <br>
+
+  <li>
+    M&M Steel Fabrication<br>
+    Coded and deployed with GitHub Pages<br>
+    <a href="https://alejandro-pedraza-ponce.github.io/MandM-Steel-Fabrication/">Live Website</a> |
+    <a href="https://github.com/alejandro-pedraza-ponce/MandM-Steel-Fabrication">Source Code</a>
+  </li>
+</ul>
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
