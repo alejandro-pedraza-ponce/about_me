@@ -145,7 +145,7 @@
   <img src="https://img.icons8.com/color/1200/office-365.jpg" title="Microsoft 365" alt="Microsoft 365" width="60" height="60">&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/1200/microsoft-excel-2019--v1.jpg" title="Microsoft Excel" alt="Microsoft Excel" width="60" height="60">&nbsp;&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-Xo6QRq6JjoFXRlWyotLzm-BkxQFxcmlxC8x-ckhQA&s=10" title="Copilot" alt="Copilot" width="60" height="60">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" title="SAP EWM" alt="SAP EWM" width="60" height="60">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" title="SAP EWM" alt="SAP EWM" height="60">
 </div>
 
 ---
