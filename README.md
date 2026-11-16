@@ -1,11 +1,8 @@
-<p align="center"><img src="https://giphy.com/gifs/MLNKxo5LKKuSda5rQg" width="500" height="270"  /></p>
-
-
 <img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/eedb1e82-4976-41ba-9d04-b38392c59e94" />
 
-
-
-
+<p align="center">
+  <img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/eedb1e82-4976-41ba-9d04-b38392c59e94" />
+</p>
 
 <h1 align="center"> :wave: Hey there, I'm Alejandro! :wave: </h1>
 
