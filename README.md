@@ -110,60 +110,43 @@
 
 ---
 
-<h3>🏆 &nbsp;Certifications</h3>
-
-<ul>
-  <li>Career Essentials in System Administration — Microsoft & LinkedIn</li>
-  <li>Windows 11 for IT Support: Troubleshooting Basics — LinkedIn</li>
-  <li>IT Help Desk for Beginners — LinkedIn</li>
-  <li>Google UX Design Professional Certificate — Google</li>
-  <li>Avocademy - UX/UI Foundations — Avocademy (YC W22)</li>
-  <li>JavaScript Algorithms and Data Structures — freeCodeCamp</li>
-  <li>Responsive Web Design — freeCodeCamp</li>
-</ul>
-
----
-
 <h3>🛠 &nbsp;Technologies & Tools</h3>
 
 <h4>IT & Systems</h4>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="60" height="60">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="60" height="60">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" title="VMware" alt="VMware" width="60" height="60">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="60" height="60">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="60" height="60">&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" title="VMware" alt="VMware" width="60" height="60">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60">
 </div>
 
 <h4>Development</h4>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="60" height="60">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="60" height="60">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60">
 </div>
 
 <h4>Design & Web</h4>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/wix/0C0C0C" title="Wix" alt="Wix" width="60" height="60">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wixstudio/FFFFFF" title="Wix" alt="Wix" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/framer/0055FF" title="Framer" alt="Framer" width="60" height="60">
 </div>
 
 <h4>Enterprise & Productivity</h4>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" title="Microsoft Excel" alt="Microsoft Excel" width="60" height="60">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoft/5E5E5E" title="Microsoft 365" alt="Microsoft 365" width="60" height="60">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" title="Microsoft Excel" alt="Microsoft Excel" width="60" height="60">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/microsoft-365.png" title="Microsoft 365" alt="Microsoft 365" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/sap/0FAAFF" title="SAP EWM" alt="SAP EWM" width="60" height="60">
 </div>
-
----
 
 ---
 
