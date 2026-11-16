@@ -9,13 +9,15 @@
 <h3>👨‍💻 &nbsp;About Me :</h3>
 
 <ul>
-  <li>📦 Inventory Specialist with a background in User Experience Design, now transitioning into IT.</li>
+  <li>💻 I’m currently building my skills and working toward my first role in IT.</li>
   <br>
-  <li>🧠 I enjoy solving problems, improving processes, and understanding how technology works behind the scenes.</li>
+  <li>📝 I spend my time outside of work studying, practicing, and getting hands-on with networking, systems, and Microsoft technologies.</li>
   <br>
-  <li>🎥 Fun Fact: I love documentaries and learning new things.</li>
+  <li>🗺️ I’m always looking for the next thing to learn, build, troubleshoot, or improve.</li>
   <br>
-  <li>🎶 This is the kind of <a href="https://open.spotify.com/playlist/0JdyXwKC3tQYyc9TTc1CRX?si=1Tx08-7WRY-IKFe1xJDMVQ&utm_source=copy-link&pi=pFwm0ahNSoyLq" target="_blank" rel="noopener noreferrer">music I like</a>.</li>
+  <li>🕺 Fun Fact: I dance Salsa</li>
+  <br>
+  <li>🎶 This is the kind of <a href="https://open.spotify.com/playlist/0JdyXwKC3tQYyc9TTc1CRX?si=1Tx08-7WRY-IKFe1xJDMVQ&utm_source=copy-link&pi=pFwm0ahNSoyLq">music I like</a>.</li>
 </ul>
 
 ---
