@@ -4,11 +4,11 @@
 
 <h1 align="center"> :wave: Hey there, I'm Alejandro! :wave: </h1>
 
-<h3 align="center">Inventory Specialist | UX Background | Transitioning into IT</h3>
+<h3 align="center">Inventory Specialist | UX Design Background | Transitioning into IT</h3>
 
 ### 👨‍💻 &nbsp;About Me :
 
-- 📦 **Inventory Specialist** with a background in **UX/UI and software development**, now transitioning into **IT**.
+- 📦 **Inventory Specialist** with a background in **User Experience Design**, now transitioning into **IT**.
 
 - 🧠 I enjoy solving problems, improving processes, and understanding how technology works behind the scenes.
 
