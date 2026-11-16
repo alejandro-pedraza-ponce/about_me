@@ -6,9 +6,6 @@
 
 <h3 align="center">💻 Inventory Specialist | UX Background | Transitioning into IT 💻</h3>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejandro-pedrazaaa" alt="mevaldovi" /></a></p>
-
-
 ### :man_technologist: &nbsp;About Me :
 
 - 💻 I have been training to become a software developer for about seven months
