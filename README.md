@@ -136,7 +136,7 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60">&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Wix.com_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" title="Wix" alt="Wix" width="60" height="60">&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968770.png" title="Wix" alt="Wix" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/framer/0055FF" title="Framer" alt="Framer" width="60" height="60">
 </div>
 
