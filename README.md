@@ -8,17 +8,11 @@
 
 ### 👨‍💻 &nbsp;About Me :
 
-- 📦 I currently work as an **Inventory Specialist**, where I use technology, SAP EWM, Excel, and process improvement to solve operational problems.
+- 📦 **Inventory Specialist** with a background in **UX/UI and software development**, now transitioning into **IT**.
 
-- 🎨 I have a background in **UX/UI and software development**, which taught me how to understand users, identify problems, and design solutions.
+- 🧠 I enjoy solving problems, improving processes, and understanding how technology works behind the scenes.
 
-- 💻 I'm currently transitioning into **IT**, building my skills in networking, system administration, Microsoft technologies, security, and troubleshooting.
-
-- 🎓 I'm pursuing a **Bachelor of Science in Computer Science**.
-
-- ⚡ I enjoy learning how systems work behind the scenes and finding ways to make them work better.
-
-- 🎥 Fun fact: **I really like watching documentaries and learning new things.**
+- 🎥 Fun fact: I love documentaries and learning new things.
 
 - 🎶 This is the kind of [music I like](https://open.spotify.com/playlist/7mHplBn1Z5KpCfK1i7V2vH)
 
