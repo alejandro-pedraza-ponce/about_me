@@ -13,7 +13,7 @@
   <br>
   <li>🧠 I enjoy solving problems, improving processes, and understanding how technology works behind the scenes.</li>
   <br>
-  <li>🎥 <strong>Fun Fact:</strong> I love documentaries and learning new things.</li>
+  <li>🎥 Fun Fact: I love documentaries and learning new things.</li>
   <br>
   <li>🎶 This is the kind of <a href="https://open.spotify.com/playlist/7mHplBn1Z5KpCfK1i7V2vH">music I like</a>.</li>
 </ul>
