@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/eedb1e82-4976-41ba-9d04-b38392c59e94" />
+  <img width="600" height="270" alt="giphy" src="https://github.com/user-attachments/assets/eedb1e82-4976-41ba-9d04-b38392c59e94" />
 </p>
 
 <h1 align="center"> :wave: Hey there, I'm Alejandro! :wave: </h1>
