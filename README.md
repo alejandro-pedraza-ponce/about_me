@@ -4,7 +4,7 @@
 
 <h1 align="center"> :wave: Hey there, I'm Alejandro! :wave: </h1>
 
-<h3 align="center">💻 Inventory Specialist | UX Background | Transitioning into IT 💻</h3>
+<h3 align="center">Inventory Specialist | UX Background | Transitioning into IT</h3>
 
 ### :man_technologist: &nbsp;About Me :
 
