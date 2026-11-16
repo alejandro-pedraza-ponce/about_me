@@ -34,12 +34,18 @@
 <br clear="left">
 
 ---
-
-<h3>🎯 Certifications & Courses in Progress</h3>
+<h3>🎯 &nbsp;Currently Studying</h3>
 
 <ul>
   <li><strong>Google IT Support Professional Certificate</strong> — Google | <em>In Progress</em></li>
   <li><strong>Networking Basics</strong> — Cisco Networking Academy | <em>In Progress</em></li>
+</ul>
+
+---
+
+<h3>🏆 &nbsp;Certifications</h3>
+
+<ul>
   <li><strong>Career Essentials in System Administration</strong> — Microsoft & LinkedIn</li>
   <li><strong>Windows 11 for IT Support: Troubleshooting Basics</strong> — LinkedIn</li>
   <li><strong>IT Help Desk for Beginners</strong> — LinkedIn</li>
@@ -48,24 +54,6 @@
   <li><strong>JavaScript Algorithms and Data Structures</strong> — freeCodeCamp</li>
   <li><strong>Responsive Web Design</strong> — freeCodeCamp</li>
 </ul>
-
----
-
-### 📚 What I'm Currently Studying
-
-- 🌐 Networking
-- 🖥️ System Administration
-- 🪟 Windows & Windows Server
-- 🔐 Active Directory & Microsoft Entra ID
-- ☁️ Microsoft Azure
-- 🛡️ IT Security
-
-#### 🎯 Certifications & Courses in Progress
-
-- **Google IT Support**
-- **Cisco Networking / System Administration**
-- *ADD OTHER CERTIFICATIONS YOU ARE CURRENTLY WORKING ON*
-
 ---
 
 ### 🧪 IT Labs & Projects
