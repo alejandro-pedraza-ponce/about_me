@@ -44,20 +44,6 @@
 
 ---
 
-<h3>🏆 &nbsp;Certifications</h3>
-
-<ul>
-  <li>Career Essentials in System Administration — Microsoft & LinkedIn</li>
-  <li>Windows 11 for IT Support: Troubleshooting Basics — LinkedIn</li>
-  <li>IT Help Desk for Beginners — LinkedIn</li>
-  <li>Google UX Design Professional Certificate — Google</li>
-  <li>Avocademy - UX/UI Foundations — Avocademy (YC W22)</li>
-  <li>JavaScript Algorithms and Data Structures — freeCodeCamp</li>
-  <li>Responsive Web Design — freeCodeCamp</li>
-</ul>
-
----
-
 <h3>🧪 &nbsp;Labs</h3>
 
 <ul>
@@ -70,7 +56,9 @@
 
 ---
 
-<h3>🌐 &nbsp;Websites I've Designed & Developed</h3>
+<h3>🌐 &nbsp;Websites & Development Projects</h3>
+
+<h4>Designed & Developed</h4>
 
 <ul>
   <li>
@@ -94,9 +82,7 @@
   </li>
 </ul>
 
----
-
-<h3>💻 &nbsp;Web Development Projects</h3>
+<h4>Coded & Deployed</h4>
 
 <ul>
   <li>
@@ -121,6 +107,20 @@
     <a href="https://alejandro-pedraza-ponce.github.io/MandM-Steel-Fabrication/">Live Website</a> |
     <a href="https://github.com/alejandro-pedraza-ponce/MandM-Steel-Fabrication">Source Code</a>
   </li>
+</ul>
+
+---
+
+<h3>🏆 &nbsp;Certifications</h3>
+
+<ul>
+  <li>Career Essentials in System Administration — Microsoft & LinkedIn</li>
+  <li>Windows 11 for IT Support: Troubleshooting Basics — LinkedIn</li>
+  <li>IT Help Desk for Beginners — LinkedIn</li>
+  <li>Google UX Design Professional Certificate — Google</li>
+  <li>Avocademy - UX/UI Foundations — Avocademy (YC W22)</li>
+  <li>JavaScript Algorithms and Data Structures — freeCodeCamp</li>
+  <li>Responsive Web Design — freeCodeCamp</li>
 </ul>
 
 ---
