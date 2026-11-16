@@ -21,8 +21,7 @@
 ### 🎓 Education
 
 **Bachelor of Science in Computer Science**  
-*ADD COLLEGE NAME HERE*  
-*ADD EXPECTED GRADUATION HERE*
+*University of Arkansas Grantham*  
 
 ---
 
