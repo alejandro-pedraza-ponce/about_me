@@ -137,8 +137,13 @@
 
 ---
 
-<h3>📫 &nbsp;Contact Me</h3>
+<h3>📫 &nbsp;Let's Connect</h3>
+
+<p>
+I'm always happy to connect with people in IT, technology, and anyone who enjoys learning and building things.
+</p>
 
 <ul>
-  <li><a href="https://www.linkedin.com/in/alejandro-pedraza-ponce/">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/alejandro-pedraza-ponce/">Connect with me on LinkedIn</a></li>
+  <li><a href="mailto:YOUR-EMAIL-HERE">Send me an email</a></li>
 </ul>
