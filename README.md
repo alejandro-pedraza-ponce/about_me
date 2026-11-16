@@ -55,66 +55,6 @@
   <li><strong>Responsive Web Design</strong> — freeCodeCamp</li>
 </ul>
 
----
-
-
-<p align="center">
-  <img width="500" alt="giphy" src="https://github.com/user-attachments/assets/eedb1e82-4976-41ba-9d04-b38392c59e94" />
-</p>
-
-<h1 align="center"> :wave: Hey there, I'm Alejandro! :wave: </h1>
-
-<h3 align="center">Inventory Specialist | UX Design Background | Transitioning into IT</h3>
-
-<h3>👨‍💻 &nbsp;About Me :</h3>
-
-<ul>
-  <li>💻 I’m currently building my skills and working toward my first role in IT.</li>
-  <br>
-  <li>📝 I spend my time outside of work studying, practicing, and getting hands-on with networking, systems, and Microsoft technologies.</li>
-  <br>
-  <li>🗺️ I learn best by building things, breaking things, and figuring out how to fix them or improve them.</li>  
-  <br>
-  <li>🕺 Fun Fact: I dance Salsa</li>
-  <br>
-  <li>🎶 This is the kind of <a href="https://open.spotify.com/playlist/0JdyXwKC3tQYyc9TTc1CRX?si=1Tx08-7WRY-IKFe1xJDMVQ&utm_source=copy-link&pi=pFwm0ahNSoyLq">music I like</a>.</li>
-</ul>
-
----
-
-<h3>🎓 &nbsp;Education</h3>
-
-<p>
-  <img src="https://uasys.edu/wp-content/uploads/sites/16/2026/04/GRANTHAM.png" width="175" align="left">
-  <strong>Bachelor of Science in Computer Science</strong><br>
-  University of Arkansas Grantham<br>
-  <em>Currently Pursuing</em>
-</p>
-
-<br clear="left">
-
----
-<h3>🎯 &nbsp;Currently Studying</h3>
-
-<ul>
-  <li>Google IT Support Professional Certificate — Google | <em>In Progress</em></li>
-  <li>Networking Basics — Cisco Networking Academy | <em>In Progress</em></li>
-</ul>
-
----
-
-<h3>🏆 &nbsp;Certifications</h3>
-
-<ul>
-  <li><strong>Career Essentials in System Administration</strong> — Microsoft & LinkedIn</li>
-  <li><strong>Windows 11 for IT Support: Troubleshooting Basics</strong> — LinkedIn</li>
-  <li><strong>IT Help Desk for Beginners</strong> — LinkedIn</li>
-  <li><strong>Google UX Design Professional Certificate</strong> — Google</li>
-  <li><strong>Avocademy - UX/UI Foundations</strong> — Avocademy (YC W22)</li>
-  <li><strong>JavaScript Algorithms and Data Structures</strong> — freeCodeCamp</li>
-  <li><strong>Responsive Web Design</strong> — freeCodeCamp</li>
-</ul>
-
 
 
 
