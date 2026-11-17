@@ -57,8 +57,6 @@
 
 <h3>🌐 &nbsp;Websites & Development Projects</h3>
 
-<h4>Designed & Developed</h4>
-
 <ul>
   <li>
     Eternal Granite<br>
@@ -80,8 +78,7 @@
     <a href="https://driveniidevelop.framer.website/">Live Website</a>
   </li>
 </ul>
-
-<h4>Coded & Deployed</h4>
+  <br>
 
 <ul>
   <li>
