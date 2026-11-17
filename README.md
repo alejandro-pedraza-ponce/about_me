@@ -9,7 +9,7 @@
 <h3>👨‍💻 &nbsp;About Me :</h3>
 
 <ul>
-  <li>💻 I’m currently building my skills and working toward my first role in IT.</li>
+  <li>💻 I’m currently expanding my technical skills and working toward my first role in IT.</li>
   <br>
   <li>📝 I spend my time outside of work studying, practicing, and getting hands-on with networking, systems, and Microsoft technologies.</li>
   <br>
