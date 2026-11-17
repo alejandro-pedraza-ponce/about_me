@@ -55,7 +55,7 @@
 
 ---
 
-<h3>🌐 &nbsp;Websites & Development Projects</h3>
+<h3>🌐 &nbsp;Projects</h3>
 
 <ul>
   <li>
