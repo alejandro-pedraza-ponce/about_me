@@ -80,7 +80,6 @@
 </ul>
   <br>
 
-<ul>
   <li>
     Movies App<br>
     Coded and deployed with GitHub Pages<br>
