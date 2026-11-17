@@ -40,8 +40,7 @@
   <li>Google IT Support Professional Certificate — Google | <em>In Progress</em></li>
   <li>Networking Basics — Cisco Networking Academy | <em>In Progress</em></li>
    <li>
-    Active Directory Home Lab | <em>In Progress</em><br>
-    <a href="https://medium.com/@lumenyx/active-directory-lab-for-beginners-5c324fbfe8e1">Lab Guide</a>
+    Active Directory Home Lab | <a href="https://medium.com/@lumenyx/active-directory-lab-for-beginners-5c324fbfe8e1">Lab Guide</a> | <em>In Progress</em>
   </li>
 </ul>
 
