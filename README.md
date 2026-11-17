@@ -123,7 +123,7 @@
 
 <h4>IT & Systems</h4>
 
-<div align="center">
+<div >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60">
@@ -131,7 +131,7 @@
 
 <h4>Development</h4>
 
-<div align="center">
+<div >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60">&nbsp;&nbsp;
@@ -141,7 +141,7 @@
 
 <h4>Design & Web</h4>
 
-<div align="center">
+<div >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968770.png" title="Wix" alt="Wix" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/framer/0055FF" title="Framer" alt="Framer" width="60" height="60">
@@ -149,7 +149,7 @@
 
 <h4>Enterprise & Productivity</h4>
 
-<div align="center">
+<div>
   <img src="https://img.icons8.com/color/1200/office-365.jpg" title="Microsoft 365" alt="Microsoft 365" width="60" height="60">&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/1200/microsoft-excel-2019--v1.jpg" title="Microsoft Excel" alt="Microsoft Excel" width="60" height="60">&nbsp;&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-Xo6QRq6JjoFXRlWyotLzm-BkxQFxcmlxC8x-ckhQA&s=10" title="Copilot" alt="Copilot" width="60" height="60">
