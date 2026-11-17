@@ -34,7 +34,7 @@
 
 ---
 
-<h3>🎯 &nbsp;Currently Studying</h3>
+<h3>🎯 &nbsp;Currently Working On</h3>
 
 <ul>
   <li>Google IT Support Professional Certificate — Google | <em>In Progress</em></li>
