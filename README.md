@@ -77,7 +77,6 @@
     Designed with Figma • Developed with Framer<br>
     <a href="https://driveniidevelop.framer.website/">Live Website</a>
   </li>
-</ul>
   <br>
 
   <li>
