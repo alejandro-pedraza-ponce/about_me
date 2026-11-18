@@ -13,8 +13,6 @@
   <br>
   <li>📝 I’m a hands-on learner who enjoys building things, breaking things, troubleshooting problems, and finding better ways to make things work.</li>
   <br>
-  <li>🗺️ I learn best by building things, breaking things, and figuring out how to fix them or improve them.</li>
-  <br>
   <li>🕺 Fun fact: I dance Salsa and this is the kind of <a href="https://open.spotify.com/playlist/0JdyXwKC3tQYyc9TTc1CRX?si=1Tx08-7WRY-IKFe1xJDMVQ&utm_source=copy-link&pi=pFwm0ahNSoyLq">music I like</a>.</li>
   <br>
 </ul>
