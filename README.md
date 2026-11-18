@@ -6,12 +6,12 @@
 
 <h3 align="center">Inventory Specialist | UX Design Background | Transitioning into IT</h3>
 
-<h3>👨‍💻 &nbsp;About Me :</h3>
+<h3>👨‍💻 &nbsp;About Me</h3>
 
 <ul>
   <li>💻 I’m currently expanding my technical skills and working toward my first role in IT.</li>
   <br>
-  <li>📝 I spend my time outside of work studying, practicing, and getting hands-on with networking, systems, and Microsoft technologies.</li>
+  <li>📝 I’m a hands-on learner who enjoys building things, breaking things, troubleshooting problems, and finding better ways to make things work.</li>
   <br>
   <li>🗺️ I learn best by building things, breaking things, and figuring out how to fix them or improve them.</li>
   <br>
