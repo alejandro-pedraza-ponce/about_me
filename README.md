@@ -36,9 +36,6 @@
 
 <ul>
   <li><strong>Networking Basics</strong> — Cisco Networking Academy | <em>In Progress</em></li>
-  <li>
-    <strong>Active Directory Home Lab</strong> — <a href="https://medium.com/@lumenyx/active-directory-lab-for-beginners-5c324fbfe8e1">Lab Guide</a> | <em>In Progress</em>
-  </li>
 </ul>
 
 ---
