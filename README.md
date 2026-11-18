@@ -23,7 +23,7 @@
 
 <p>
   <img src="https://uasys.edu/wp-content/uploads/sites/16/2026/04/GRANTHAM.png" width="175" align="left">
-  <strong>Bachelor of Science in Computer Science</strong><br>
+  Bachelor of Science in Computer Science<br>
   University of Arkansas Grantham<br>
   <em>Currently Pursuing</em>
 </p>
@@ -36,7 +36,7 @@
 
 <ul>
   <li>Networking Basics — Cisco Networking Academy | <em>In Progress</em></li>
-   <li>
+  <li>
     Active Directory Home Lab — <a href="https://medium.com/@lumenyx/active-directory-lab-for-beginners-5c324fbfe8e1">Lab Guide</a> | <em>In Progress</em>
   </li>
 </ul>
@@ -47,41 +47,41 @@
 
 <ul>
   <li>
-    <strong>Eternal Granite</strong> — Figma • Wix<br>
-    <a href="https://www.eternalgranitecountertops.com/"><strong>Live Website</strong></a>
+    Eternal Granite — Figma • Wix<br>
+    <a href="https://www.eternalgranitecountertops.com/">Live Website</a>
   </li>
   <br>
 
   <li>
-    <strong>M&M Steel Works</strong> — Figma • Wix<br>
-    <a href="https://www.mmsteelworks.com/"><strong>Live Website</strong></a>
+    M&M Steel Works — Figma • Wix<br>
+    <a href="https://www.mmsteelworks.com/">Live Website</a>
   </li>
   <br>
 
   <li>
-    <strong>Driven II Develop</strong> — Figma • Framer<br>
-    <a href="https://driveniidevelop.framer.website/"><strong>Live Website</strong></a>
+    Driven II Develop — Figma • Framer<br>
+    <a href="https://driveniidevelop.framer.website/">Live Website</a>
   </li>
   <br>
 
   <li>
-    <strong>Movies App</strong> — HTML • CSS • JavaScript • GitHub Pages<br>
-    <a href="https://alejandro-pedraza-ponce.github.io/MoviesApp/"><strong>Live Website</strong></a> |
-    <a href="https://github.com/alejandro-pedraza-ponce/MoviesApp"><strong>Source Code</strong></a>
+    Movies App — HTML • CSS • JavaScript • GitHub Pages<br>
+    <a href="https://alejandro-pedraza-ponce.github.io/MoviesApp/">Live Website</a> |
+    <a href="https://github.com/alejandro-pedraza-ponce/MoviesApp">Source Code</a>
   </li>
   <br>
 
   <li>
-    <strong>User Creation Form</strong> — HTML • CSS • JavaScript • GitHub Pages<br>
-    <a href="https://alejandro-pedraza-ponce.github.io/User-Creation-Form/"><strong>Live Website</strong></a> |
-    <a href="https://github.com/alejandro-pedraza-ponce/User-Creation-Form"><strong>Source Code</strong></a>
+    User Creation Form — HTML • CSS • JavaScript • GitHub Pages<br>
+    <a href="https://alejandro-pedraza-ponce.github.io/User-Creation-Form/">Live Website</a> |
+    <a href="https://github.com/alejandro-pedraza-ponce/User-Creation-Form">Source Code</a>
   </li>
   <br>
 
   <li>
-    <strong>M&M Steel Fabrication</strong> — HTML • CSS • JavaScript • GitHub Pages<br>
-    <a href="https://alejandro-pedraza-ponce.github.io/MandM-Steel-Fabrication/"><strong>Live Website</strong></a> |
-    <a href="https://github.com/alejandro-pedraza-ponce/MandM-Steel-Fabrication"><strong>Source Code</strong></a>
+    M&M Steel Fabrication — HTML • CSS • JavaScript • GitHub Pages<br>
+    <a href="https://alejandro-pedraza-ponce.github.io/MandM-Steel-Fabrication/">Live Website</a> |
+    <a href="https://github.com/alejandro-pedraza-ponce/MandM-Steel-Fabrication">Source Code</a>
   </li>
 </ul>
 
@@ -105,7 +105,7 @@
 
 <h4>IT & Systems</h4>
 
-<div >
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60">
@@ -113,7 +113,7 @@
 
 <h4>Development</h4>
 
-<div >
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60">&nbsp;&nbsp;
@@ -123,7 +123,7 @@
 
 <h4>Design & Web</h4>
 
-<div >
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968770.png" title="Wix" alt="Wix" width="60" height="60">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/framer/0055FF" title="Framer" alt="Framer" width="60" height="60">
