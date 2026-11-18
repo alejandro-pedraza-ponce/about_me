@@ -90,13 +90,13 @@
 <h3>🏆 &nbsp;Certifications</h3>
 
 <ul>
-  <li>Career Essentials in System Administration — Microsoft & LinkedIn</li>
-  <li>Windows 11 for IT Support: Troubleshooting Basics — LinkedIn</li>
-  <li>IT Help Desk for Beginners — LinkedIn</li>
-  <li>Google UX Design Professional Certificate — Google</li>
-  <li>Avocademy - UX/UI Foundations — Avocademy (YC W22)</li>
-  <li>JavaScript Algorithms and Data Structures — freeCodeCamp</li>
-  <li>Responsive Web Design — freeCodeCamp</li>
+  <li><strong>Career Essentials in System Administration</strong> — Microsoft & LinkedIn</li>
+  <li><strong>Windows 11 for IT Support: Troubleshooting Basics</strong> — LinkedIn</li>
+  <li><strong>IT Help Desk for Beginners</strong> — LinkedIn</li>
+  <li><strong>Google UX Design Professional Certificate</strong> — Google</li>
+  <li><strong>Avocademy - UX/UI Foundations</strong> — Avocademy (YC W22)</li>
+  <li><strong>JavaScript Algorithms and Data Structures</strong> — freeCodeCamp</li>
+  <li><strong>Responsive Web Design</strong> — freeCodeCamp</li>
 </ul>
 
 ---
