@@ -23,7 +23,7 @@
 
 <p>
   <img src="https://uasys.edu/wp-content/uploads/sites/16/2026/04/GRANTHAM.png" width="175" align="left">
-  Bachelor of Science in Computer Science<br>
+  <strong>Bachelor of Science in Computer Science</strong><br>
   University of Arkansas Grantham<br>
   <em>Currently Pursuing</em>
 </p>
@@ -35,9 +35,9 @@
 <h3>🎯 &nbsp;Currently Working On</h3>
 
 <ul>
-  <li>Networking Basics — Cisco Networking Academy | <em>In Progress</em></li>
+  <li><strong>Networking Basics</strong> — Cisco Networking Academy | <em>In Progress</em></li>
   <li>
-    Active Directory Home Lab — <a href="https://medium.com/@lumenyx/active-directory-lab-for-beginners-5c324fbfe8e1">Lab Guide</a> | <em>In Progress</em>
+    <strong>Active Directory Home Lab</strong> — <a href="https://medium.com/@lumenyx/active-directory-lab-for-beginners-5c324fbfe8e1">Lab Guide</a> | <em>In Progress</em>
   </li>
 </ul>
 
@@ -47,39 +47,39 @@
 
 <ul>
   <li>
-    Eternal Granite — Figma • Wix<br>
+    <strong>Eternal Granite</strong> — Figma • Wix<br>
     <a href="https://www.eternalgranitecountertops.com/">Live Website</a>
   </li>
   <br>
 
   <li>
-    M&M Steel Works — Figma • Wix<br>
+    <strong>M&M Steel Works</strong> — Figma • Wix<br>
     <a href="https://www.mmsteelworks.com/">Live Website</a>
   </li>
   <br>
 
   <li>
-    Driven II Develop — Figma • Framer<br>
+    <strong>Driven II Develop</strong> — Figma • Framer<br>
     <a href="https://driveniidevelop.framer.website/">Live Website</a>
   </li>
   <br>
 
   <li>
-    Movies App — HTML • CSS • JavaScript • GitHub Pages<br>
+    <strong>Movies App</strong> — HTML • CSS • JavaScript • GitHub Pages<br>
     <a href="https://alejandro-pedraza-ponce.github.io/MoviesApp/">Live Website</a> |
     <a href="https://github.com/alejandro-pedraza-ponce/MoviesApp">Source Code</a>
   </li>
   <br>
 
   <li>
-    User Creation Form — HTML • CSS • JavaScript • GitHub Pages<br>
+    <strong>User Creation Form</strong> — HTML • CSS • JavaScript • GitHub Pages<br>
     <a href="https://alejandro-pedraza-ponce.github.io/User-Creation-Form/">Live Website</a> |
     <a href="https://github.com/alejandro-pedraza-ponce/User-Creation-Form">Source Code</a>
   </li>
   <br>
 
   <li>
-    M&M Steel Fabrication — HTML • CSS • JavaScript • GitHub Pages<br>
+    <strong>M&M Steel Fabrication</strong> — HTML • CSS • JavaScript • GitHub Pages<br>
     <a href="https://alejandro-pedraza-ponce.github.io/MandM-Steel-Fabrication/">Live Website</a> |
     <a href="https://github.com/alejandro-pedraza-ponce/MandM-Steel-Fabrication">Source Code</a>
   </li>
@@ -90,7 +90,7 @@
 <h3>🏆 &nbsp;Certifications</h3>
 
 <ul>
-  <li>Career Essentials in System Administration by Microsoft and LinkedIn — Microsoft</li>
+  <li>Career Essentials in System Administration — Microsoft & LinkedIn</li>
   <li>Windows 11 for IT Support: Troubleshooting Basics — LinkedIn</li>
   <li>IT Help Desk for Beginners — LinkedIn</li>
   <li>Google UX Design Professional Certificate — Google</li>
