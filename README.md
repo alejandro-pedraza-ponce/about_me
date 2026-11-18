@@ -23,7 +23,7 @@
 
 <p>
   <img src="https://uasys.edu/wp-content/uploads/sites/16/2026/04/GRANTHAM.png" width="175" align="left">
-  Bachelor of Science in Computer Science<br>
+  <strong>Bachelor of Science in Computer Science</strong><br>
   University of Arkansas Grantham<br>
   <em>Currently Pursuing</em>
 </p>
