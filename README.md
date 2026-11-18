@@ -90,7 +90,7 @@
 <h3>🏆 &nbsp;Certifications</h3>
 
 <ul>
-  <li>Career Essentials in System Administration — Microsoft & LinkedIn</li>
+  <li>Career Essentials in System Administration by Microsoft and LinkedIn — Microsoft</li>
   <li>Windows 11 for IT Support: Troubleshooting Basics — LinkedIn</li>
   <li>IT Help Desk for Beginners — LinkedIn</li>
   <li>Google UX Design Professional Certificate — Google</li>
