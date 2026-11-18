@@ -49,47 +49,41 @@
 
 <ul>
   <li>
-    Eternal Granite<br>
-    Figma • Wix<br>
-    <a href="https://www.eternalgranitecountertops.com/">Live Website</a>
+    <strong>Eternal Granite</strong> — Figma • Wix<br>
+    <a href="https://www.eternalgranitecountertops.com/"><strong>Live Website</strong></a>
   </li>
   <br>
 
   <li>
-    M&M Steel Works<br>
-    Figma • Wix<br>
-    <a href="https://www.mmsteelworks.com/">Live Website</a>
+    <strong>M&M Steel Works</strong> — Figma • Wix<br>
+    <a href="https://www.mmsteelworks.com/"><strong>Live Website</strong></a>
   </li>
   <br>
 
   <li>
-    Driven II Develop<br>
-    Figma • Framer<br>
-    <a href="https://driveniidevelop.framer.website/">Live Website</a>
+    <strong>Driven II Develop</strong> — Figma • Framer<br>
+    <a href="https://driveniidevelop.framer.website/"><strong>Live Website</strong></a>
   </li>
   <br>
 
   <li>
-    Movies App<br>
-    HTML • CSS • JavaScript • GitHub Pages<br>
-    <a href="https://alejandro-pedraza-ponce.github.io/MoviesApp/">Live Website</a> |
-    <a href="https://github.com/alejandro-pedraza-ponce/MoviesApp">Source Code</a>
+    <strong>Movies App</strong> — HTML • CSS • JavaScript • GitHub Pages<br>
+    <a href="https://alejandro-pedraza-ponce.github.io/MoviesApp/"><strong>Live Website</strong></a> |
+    <a href="https://github.com/alejandro-pedraza-ponce/MoviesApp"><strong>Source Code</strong></a>
   </li>
   <br>
 
   <li>
-    User Creation Form<br>
-    HTML • CSS • JavaScript • GitHub Pages<br>
-    <a href="https://alejandro-pedraza-ponce.github.io/User-Creation-Form/">Live Website</a> |
-    <a href="https://github.com/alejandro-pedraza-ponce/User-Creation-Form">Source Code</a>
+    <strong>User Creation Form</strong> — HTML • CSS • JavaScript • GitHub Pages<br>
+    <a href="https://alejandro-pedraza-ponce.github.io/User-Creation-Form/"><strong>Live Website</strong></a> |
+    <a href="https://github.com/alejandro-pedraza-ponce/User-Creation-Form"><strong>Source Code</strong></a>
   </li>
   <br>
 
   <li>
-    M&M Steel Fabrication<br>
-    HTML • CSS • JavaScript • GitHub Pages<br>
-    <a href="https://alejandro-pedraza-ponce.github.io/MandM-Steel-Fabrication/">Live Website</a> |
-    <a href="https://github.com/alejandro-pedraza-ponce/MandM-Steel-Fabrication">Source Code</a>
+    <strong>M&M Steel Fabrication</strong> — HTML • CSS • JavaScript • GitHub Pages<br>
+    <a href="https://alejandro-pedraza-ponce.github.io/MandM-Steel-Fabrication/"><strong>Live Website</strong></a> |
+    <a href="https://github.com/alejandro-pedraza-ponce/MandM-Steel-Fabrication"><strong>Source Code</strong></a>
   </li>
 </ul>
 
