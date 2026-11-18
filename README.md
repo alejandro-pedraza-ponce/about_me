@@ -50,28 +50,28 @@
 <ul>
   <li>
     Eternal Granite<br>
-    Designed with Figma • Developed with Wix<br>
+    Figma • Wix<br>
     <a href="https://www.eternalgranitecountertops.com/">Live Website</a>
   </li>
   <br>
 
   <li>
     M&M Steel Works<br>
-    Designed with Figma • Developed with Wix<br>
+    Figma • Wix<br>
     <a href="https://www.mmsteelworks.com/">Live Website</a>
   </li>
   <br>
 
   <li>
     Driven II Develop<br>
-    Designed with Figma • Developed with Framer<br>
+    Figma • Framer<br>
     <a href="https://driveniidevelop.framer.website/">Live Website</a>
   </li>
   <br>
 
   <li>
     Movies App<br>
-    Coded and deployed with GitHub Pages<br>
+    HTML • CSS • JavaScript • GitHub Pages<br>
     <a href="https://alejandro-pedraza-ponce.github.io/MoviesApp/">Live Website</a> |
     <a href="https://github.com/alejandro-pedraza-ponce/MoviesApp">Source Code</a>
   </li>
@@ -79,7 +79,7 @@
 
   <li>
     User Creation Form<br>
-    Coded and deployed with GitHub Pages<br>
+    HTML • CSS • JavaScript • GitHub Pages<br>
     <a href="https://alejandro-pedraza-ponce.github.io/User-Creation-Form/">Live Website</a> |
     <a href="https://github.com/alejandro-pedraza-ponce/User-Creation-Form">Source Code</a>
   </li>
@@ -87,7 +87,7 @@
 
   <li>
     M&M Steel Fabrication<br>
-    Coded and deployed with GitHub Pages<br>
+    HTML • CSS • JavaScript • GitHub Pages<br>
     <a href="https://alejandro-pedraza-ponce.github.io/MandM-Steel-Fabrication/">Live Website</a> |
     <a href="https://github.com/alejandro-pedraza-ponce/MandM-Steel-Fabrication">Source Code</a>
   </li>
