@@ -52,8 +52,8 @@
   
 <li>
   <strong>Eternal Granite</strong> — Figma • Wix<br>
-  <a href="https://www.figma.com/design/7AtGs7edWWnk4G7shyrgzg/Eternal-Granite?node-id=6-25&t=q9BK8VQrkzVlvhkP-1">Figma Design</a> |
-  <a href="https://www.eternalgranitecountertops.com/">Live Website</a>
+  <a href="https://www.eternalgranitecountertops.com/">Live Website</a> |
+   <a href="https://www.figma.com/design/7AtGs7edWWnk4G7shyrgzg/Eternal-Granite?node-id=6-25&t=q9BK8VQrkzVlvhkP-1">Figma Design</a>
 </li>
 <br>
 
