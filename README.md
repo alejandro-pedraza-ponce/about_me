@@ -66,7 +66,7 @@
 
 <li>
   <strong>Driven II Develop</strong> — Figma • Framer<br>
-  <a href="https://www.figma.com/design/xSB0eGnKeTtGynfuIorucK/D2D-Website?node-id=0-1&t=q9BK8VQrkzVlvhkP-1">Figma Design</a> |
+  <a href="https://www.figma.com/design/xSB0eGnKeTtGynfuIorucK/D2D-Website?node-id=2900-7893&t=5WhQwLjZv9gR8ekp-1">Figma Design</a> |
   <a href="https://driveniidevelop.framer.website/">Live Website</a>
 </li>
 <br>
