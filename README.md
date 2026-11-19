@@ -43,6 +43,13 @@
 <h3>🌐 &nbsp;Projects</h3>
 
 <ul>
+<li>
+  <strong>Resin Inventory Reconciliation Demo</strong> — Microsoft Excel • Workflow Automation<br>
+  <a href="https://github.com/alejandro-pedraza-ponce/Resin-Inventory-Reconciliation-Demo">View Project</a> |
+  <a href="https://www.loom.com/share/d8f5c1e829e843fc99d595889ac4732c">Video Demo</a>
+</li>
+<br>
+  
   <li>
     <strong>Eternal Granite</strong> — Figma • Wix<br>
     <a href="https://www.eternalgranitecountertops.com/">Live Website</a>
