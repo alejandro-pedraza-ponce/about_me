@@ -101,7 +101,7 @@
   <li><strong>Windows 11 for IT Support: Troubleshooting Basics</strong> — LinkedIn</li>
   <li><strong>IT Help Desk for Beginners</strong> — LinkedIn</li>
   <li><strong>Google UX Design</strong> — Google</li>
-  <li><strong>Avocademy - UX/UI Foundations</strong> — Avocademy (YC W22)</li>
+  <li><strong>UX/UI Foundations</strong> — Avocademy (YC W22)</li>
   <li><strong>JavaScript Algorithms and Data Structures</strong> — freeCodeCamp</li>
   <li><strong>Responsive Web Design</strong> — freeCodeCamp</li>
 </ul>
